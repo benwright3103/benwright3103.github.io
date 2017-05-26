@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="38px" height="48px" viewBox="0 0 38 48" enable-background="new 0 0 38 48" xml:space="preserve">
+<title>stackoverflow-black</title>
+<desc>Created with Sketch.</desc>
+<g id="Icons">
+	<g id="Black" transform="translate(-807.000000, -952.000000)">
+		<g id="stackoverflow" transform="translate(807.000000, 952.000000)">
+			<path fill="#E71D36" d="M25.086,41.592l-19.111,0.01l-0.001-4.048l19.111-0.01L25.086,41.592L25.086,41.592z M38,18.671L34.73,0
+				l-4.021,0.692l3.269,18.671L38,18.671L38,18.671z M25.545,32.354L6.516,30.616l-0.375,4.03l19.031,1.738L25.545,32.354
+				L25.545,32.354z M26.801,27.073L8.346,22.154l-1.061,3.909l18.457,4.92L26.801,27.073L26.801,27.073z M29.211,22.444
+				L12.75,12.816l-2.075,3.485l16.462,9.628L29.211,22.444L29.211,22.444z M33.246,19.609L22.479,3.952l-3.372,2.28l10.769,15.656
+				L33.246,19.609L33.246,19.609z"/>
+			<polygon id="stackoverflow-icon-path" fill="#E71D36" points="28.332,28.278 28.332,44.824 3.265,44.824 3.265,28.278 0,28.278 
+				0,48 31.58,48 31.58,28.278 			"/>
+		</g>
+	</g>
+</g>
+</svg>
